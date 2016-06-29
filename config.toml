@@ -1,0 +1,10 @@
+siteTitle="Scorex"
+baseColor = "#884499"
+linkPrefix = ""
+docPages = [
+  "/docs/",
+  "/docs/getting-started/",
+  "/docs/how-to-run/",
+  "/docs/settings/",
+  "/docs/api/",
+]
