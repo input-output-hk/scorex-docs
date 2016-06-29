@@ -1,6 +1,6 @@
 siteTitle="Scorex"
 baseColor = "#884499"
-linkPrefix = ""
+linkPrefix = "/scorex-docs"
 docPages = [
   "/docs/",
   "/docs/getting-started/",
